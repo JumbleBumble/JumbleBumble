@@ -7,4 +7,4 @@
 
 - I’m looking to collaborate on **Lua Scripts/Can help with or do GUIs for scripts/hubs**
 
-- Add me on Discord **Jumble#1293**
+- Add me on Discord **Jumble#0001**
