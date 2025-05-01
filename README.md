@@ -1,12 +1,8 @@
-<h1 align="center">Hello, I'm Jumble</h1>
-<h3 align="center">Just some dude that makes stuff sometimes</h3>
-
+<h1 align="center">Just some dude that makes stuff sometimes</h1>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumblebumble&hide=tcl,html" />
+    <img align="center" src="https://github-readme-stats-jumbles-projects.vercel.app/api/top-langs/?username=jumblebumble&hide=tcl,html,lua,css" />
   </a>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jumblebumble&label=Profile%20views&color=0e75b6&style=flat" alt="jumblebumble" /> </p>
-
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=jumblebumble&label=Profile%20views&color=0e75b6&style=flat" alt="jumblebumble" width="15%" /> </div>
 
